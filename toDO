@@ -4,5 +4,12 @@
       
   - connect site to sqlDB
   - upload img ref to DB
+  - load img onto webpage in recursive, random order 
+  - add img counter at top of img's on site (Image 1, 2, 3.....)   [ https://www.php.net/manual/en/function.count.php ]
   - classify each img in DB as 0 (shadow) / 1 (edge) 
   - compare true answer vs. user input & prompt whether Correct/Incorrect 
+  
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content
+      --> fit all contents to webpage depending on size 
+            - fit to screen size 
+            - reduce size of webpage content depending on window size 
