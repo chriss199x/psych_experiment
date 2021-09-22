@@ -1,0 +1,5 @@
+### add wave style to bottom of site 
+  - connect site to sqlDB
+  - upload img ref to DB
+  - classify each img in DB as 0 (shadow) / 1 (edge) 
+  - compare true answer vs. user input & prompt whether Correct/Incorrect 
